@@ -1,5 +1,3 @@
-# python_foundation
-Python basic theory
 # Python Basics for IoT Development
 
 ## Table of Contents
